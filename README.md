@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Gulzaib Ahmad 👋</h1>
-<p align="center">
+<h1>Hi, I'm Gulzaib Ahmad 👋</h1>
+<p>
   <b>Full Stack Web & Mobile App Developer</b>
 </p>
-<p align="center">
+<p>
   <em>I build high-impact websites and cross-platform apps that merge performance with great UI</em>
 </p>
 
@@ -10,9 +10,9 @@
 
 ### 🚀 Top Skills
 
-- **Front-End:** React Native, React, Expo
-- **Back-End:** Node.js, Nest.js, Express.js, Laravel
-- **Databases & Cloud:** Firebase, PostgreSQL
+- **Front-End:** React Native, React, Expo  
+- **Back-End:** Node.js, Nest.js, Express.js, Laravel  
+- **Databases & Cloud:** Firebase, PostgreSQL  
 
 ---
 
@@ -23,16 +23,28 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=GulzaibAhmad&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GulzaibAhmad&layout=compact&theme=radical" alt="Top languages" />
+</p>
+
+---
+
 ### 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/gulzaibahmadbhatti/)
-- Email: zaibahmad789@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/gulzaibahmadbhatti/)  
+- **Email:** zaibahmad789@gmail.com  
 
 ---
 
 ### ⚡ Fun Fact
 
-When I'm not coding, you'll find me at the gym! 🏋️
+When I'm not coding, you'll find me at the gym! 🏋️  
 
 ---
 
